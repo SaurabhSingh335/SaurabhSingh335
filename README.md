@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
-<img align = "right" alt = "Coding" "width=400" src = "https://www.pngitem.com/pimgs/m/20-208152_student-png-high-school-student-animation-transparent-png.png"
+<img align = "right" alt = "Coding" "width=400" src = "https://as1.ftcdn.net/v2/jpg/05/58/76/06/1000_F_558760670_tpmGEITXBI7x4bK47iMoM9tUQnSVt7Uk.jpg"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhsingh335&label=Profile%20views&color=0e75b6&style=flat" alt="saurabhsingh335" /> </p>
 
